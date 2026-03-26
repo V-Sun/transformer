@@ -54,7 +54,7 @@ Output Logits
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/transformer.git
+git clone https://github.com/V-Sun/transformer.git
 cd transformer
 
 # Install dependencies
@@ -287,4 +287,4 @@ Special thanks to the PyTorch team and the broader ML research community for mak
 
 ---
 
-**Built with ❤️ for learning and understanding transformers**
+**Built for learning and understanding transformers**
